@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/FredHorizon/FredHorizon/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 ### Resumo
 
-- 👨‍💻 Atualmente estou trabalhando como **Freelancer**.
-- 🌱 Sempre estou me atualizando sobre: **JS, ReactJS e NextJS**.
-- 💙 Interesses: Jogos FPS, Séries e fuçar meu Linux Manjaro.
+- 👨‍💻 Trabalho atualmente como **Freelancer**.
+- 🌱 Estou sempre me atualizando sobre o universo Javascript: **ECMAScript, ReactJS e NextJS**.
+- 💙 Tenho interesse em Jogos FPS, séries, ficar fuçando meu Manjaro e entender o mínimo de política.
 
 ### Linguagens e Stacks
 
@@ -75,14 +75,6 @@
       height="40"
     />
   </a>
-  <a style="margin-right: 12px" href="https://nodejs.org" target="_blank">
-    <img
-      src="icons/nextjs-original.svg"
-      alt="nodejs"
-      width="80"
-      height="80"
-    />
-  </a>
   <a style="margin-right: 12px" href="https://www.postgresql.org" target="_blank">
     <img
       src="icons/postgresql-original-wordmark.svg"
@@ -107,6 +99,14 @@
       height="40"
     />
   </a>
+  <a style="margin-right: 12px" href="https://nodejs.org" target="_blank">
+    <img
+      src="icons/nextjs-original.svg"
+      alt="nodejs"
+      width="80"
+      height="80"
+    />
+  </a>
   <a style="margin-right: 12px" href="https://www.sanity.io" target="_blank">
     <img
       src="icons/sanity-original.svg"
@@ -117,12 +117,12 @@
   </a>
 </p>
 
-### Você me encontra em 🌎:
+### Você me encontra nas redes 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/">LinkedIn</a>.
-- 🐦 Following me on <a href="https://twitter.com">Twitter</a>.
+- 💼 <a href="https://www.linkedin.com/">LinkedIn</a>.
+- 🐦 <a href="https://twitter.com">Twitter</a>.
 
 <p align="center">
   <br/>
-  <a href="https://storyset.com/web">Illustration by Freepik Storyset</a>
+  <a href="https://storyset.com/web">Ilustração feita no Freepik Storyset</a>
 </p>
