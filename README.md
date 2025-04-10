@@ -14,16 +14,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredHorizon&layout=compact&theme=dracula&title_color=03D361&bg_color=21262d"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=FredHorizon&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula&title_color=03D361&bg_color=21262d"
-    />
-  </a>
 </p>
-
-### Resumo
 
 ### Linguagens e Stacks
 
