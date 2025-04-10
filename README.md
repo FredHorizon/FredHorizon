@@ -23,19 +23,7 @@
   </a>
 </p>
 
-<div align="center">
-
-![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
 ### Resumo
-
-- 👨‍💻 Trabalho atualmente como **Freelancer**.
-- 🌱 Estou sempre me atualizando sobre o universo Javascript: **ECMAScript, ReactJS e NextJS**.
-- 💙 Tenho interesse em Jogos FPS, séries, ficar fuçando meu Manjaro e entender o mínimo de política.
 
 ### Linguagens e Stacks
 
@@ -116,11 +104,6 @@
     />
   </a>
 </p>
-
-### Você me encontra nas redes 🌎:
-
-- 💼 <a href="https://www.linkedin.com/">LinkedIn</a>.
-- 🐦 <a href="https://twitter.com">Twitter</a>.
 
 <p align="center">
   <br/>
